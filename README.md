@@ -1,8 +1,10 @@
 # CreateNewUserAndSection
 
-Just change the first six variables to what you need them to be.
+Just change the first six variables to what you need them to be
 
-Run using the MySQL admin panel. 
+Run using the MySQL admin panel
+
+Be sure the section name is unique. For example testuser_summer_2016 instead of testuser_section
 
 ``` SQL
 
